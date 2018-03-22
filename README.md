@@ -11,7 +11,7 @@ For this project, you’ll create a 90-second audio collage using Audacity that 
 [http://www.add link to your project here.com]([http://www.add link to your project here.com)
 
 ### Description
-Your description goes here.
+A girl whos been enduring in a zombie apocalypse for sometime who has lost everything except a guitar that her father gave her and also uses it as her weapon to fight off the zombies. So she sits on the porch of an abandoned house during a thunder storm and decides to write a song as a way to find peace during all the chaos. 
 
 ## Rules
 * **Do not** add or remove any files to this repo.
